@@ -6,5 +6,6 @@ I have used the python visulization tools to answer following questions.
 - Top cities during accidents
 - Accidents for each Severity level
 - Accidents for time
-Visu;ization file can be viewed 
+
+Visulization file can be viewed 
 [here](https://github.com/ajinderbains/US_Accidents/blob/main/US_ACC_Visulization.ipynb)
